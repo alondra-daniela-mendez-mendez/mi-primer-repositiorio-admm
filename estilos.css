@@ -1,0 +1,112 @@
+body{
+	background-image: url(https://scontent.fcjs4-1.fna.fbcdn.net/v/t1.15752-9/174542128_777735692920400_6575014556951697316_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=ae9488&_nc_ohc=vXzxZnlOJdMAX_n9iIu&_nc_ht=scontent.fcjs4-1.fna&oh=fedf698ad63c9aedb495c3274db94574&oe=609F84B4);
+	margin-right:10px; 
+	margin-left:10px;
+	margin-bottom:20px;
+	margin-top:15px; 
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.body2{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSkkoa-MBJOVVA_9xaErmkxNws6z7Y8FB2Gw&usqp=CAU);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.titulo{
+	font-family: Bahnschrift SemiBold ;
+	font-stretch: condensed;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: black 2px 5px;
+	color: #A0EDFF;
+	background-repeat: no-repeat;
+}
+.objetivo{
+	font-family: Bahnschrift Light;
+	font-stretch: condensed;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	background-color: #00CFFF;
+
+}
+.materia{
+	font-family: Bahnschrift ;
+	font-stretch: condensed;
+	font-weight:500;
+	font-size: 37px;
+	text-align: center;
+	text-shadow: #219FBC 2px 3px;
+
+}
+.integrantes{
+	font-family: Bahnschrift Light;
+	font-stretch: condensed;
+	font-size: 30px;
+	text-align: left;
+	color: black;
+	
+}
+.s{
+	color:#1D89A2;
+}
+.texto{
+	font-family: Bahnschrift;
+	font-stretch: condensed;
+	font-size: 25px;
+	text-align: left;
+	color: black;
+}
+
+.texto-tabla{
+font-family: Bahnschrift;
+font-size: 14px;
+line-height: 20px;
+color: black;
+font-style: normal;
+text-align: justify;
+background-color: white;
+border: aqua 5px solid;
+}
+table
+{
+border-collapse:collapse;
+border:aqua 5px solid;
+table-layout:fixed;
+width:60%
+}
+.titulo-tabla {
+font-family: Bahnschrift;
+font-size: 20px;
+line-height: 30px;
+color: black;
+text-align: center;
+font-style: normal;
+}
+.derecha {
+font-family: Bahnschrift;
+font-size: 14px;
+line-height: 20px;
+font-weight: bold;
+color: #219FBC;
+font-style: normal;
+text-align: right;
+background-color: white;
+border:aqua 5px solid;
+}
+
+.ul{
+	font-family: Bahnschrift Light;
+	font-stretch: condensed;
+	font-size: 20px;
+	text-align: left;
+	color: black;
+	font-weight: bold;
+}
+
+.varios_txt{
+color:#219FBC;
+font-size:30px;
+font-family:Bahnschrift;		
+}
